@@ -13,3 +13,4 @@ git checkout- prepínanie medzi vetvami
 git clean/reset/revert -
 git branch- vytvorenie novej vetvy 
 git merge - spojenie dvoch vetiev 
+git remote add origin - pridanie mojho linku (ked som raz dal origin na server tak vzdy ked dam origin tak sa to hodi na server)
